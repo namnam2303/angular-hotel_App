@@ -11,7 +11,8 @@ Welcome to the Angular Hotel App repository! This project is a simple hotel mana
 ## Installation
 
 1. Clone this repository to your local machine using:
-git clone https://github.com/your-username/angular-hotel-app.git
+git clone https://github.com/namnam2303/angular-hotel_App.git
+
 
 2. Navigate to the project directory:
 cd angular-hotel-app
