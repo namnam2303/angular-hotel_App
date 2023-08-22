@@ -35,4 +35,9 @@ ng serve
 - Bootstrap for Styling
 - Local Storage for Data Persistence
 
+## Illustration
+![image](https://github.com/namnam2303/angular-hotel_App/assets/85600809/cf59f7d6-2d46-4ef0-b4f2-985ab9d524c3)
+![image](https://github.com/namnam2303/angular-hotel_App/assets/85600809/375bc3f1-2861-4f97-884d-5d69ef66e400)
+![image](https://github.com/namnam2303/angular-hotel_App/assets/85600809/c8540ffc-1a38-4871-8e99-caabb150bdca)
+
 
